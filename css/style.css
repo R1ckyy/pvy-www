@@ -25,7 +25,7 @@ header:hover{
 body{
     background-color: #262626;
 }
-p{
+section{
     color:azure;
     margin-left: 200px;
     margin-right: 200px;
@@ -49,10 +49,7 @@ h2{
     text-align: center;
     padding-bottom: 10px;
     padding-top: 10px;
-    border: solid #0062ff;
-    border-radius: 15px;
-    color: #262626;
-    background-color: #0062ff;
+    color: azure;
     margin: 50px 50px;
     font-size: 30px;
 }
@@ -62,4 +59,28 @@ h2{
     padding-left: 230px;
     font-size: 25px;
     color: #262626
+}
+.odpoved{
+    color: azure;
+    margin-left: 200px;
+    margin-right: 200px;    
+border-left: solid 4px azure;
+border-right: solid 4px azure;
+border-top: solid 2px #262626;
+border-bottom: solid 2px #262626;
+    border-radius: 25px;
+    transition: 0.5s;
+}
+.odpoved:hover{
+    border-left: solid 8px #00ffee;
+    border-right: solid 8px #00ffee;
+    border-top: solid 2px #00ffee;
+    border-bottom: solid 2px #00ffee;
+    transition: 0.5s;
+}
+.odpovedp{
+    color:azure;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 20px;
 }
