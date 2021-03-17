@@ -1,0 +1,65 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 50px;
+    font-weight: 1000;
+
+}
+header{
+    background-color: #0062ff;
+    border-radius: 15px;
+    border: solid 30px #0062ff;
+    margin: 50px 50px;
+    margin-bottom: 100px;
+}
+header{
+    color:#262626;
+    transition: 0.3s;
+}
+header:hover{
+    color:white;
+    transition: 0.3s;
+}
+body{
+    background-color: #262626;
+}
+p{
+    color:azure;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: 20px;
+}
+hr{
+    margin-top: 50px;
+}
+.copy{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 75%;
+    border: solid #0062ff;
+    border-radius: 15px;
+    text-align: center;
+    background-color: #0062ff;
+    font-size: 25px;
+    color:#262626;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border: solid #0062ff;
+    border-radius: 15px;
+    color: #262626;
+    background-color: #0062ff;
+    margin: 50px 50px;
+    font-size: 30px;
+}
+.otazka{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(to right, #00ffee, #0062ff,#0062ff, #262626, #262626);
+    padding-left: 230px;
+    font-size: 25px;
+    color: #262626
+}
